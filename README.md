@@ -24,7 +24,7 @@ While not all figures relevant could be credited below (alphabetical order), an
 enormous thanks extends to all others not listed who have contributed news,
 sources, tips and other research.
 
-Compiled & Edited by Ben McLeish, Matt Berkowitz, and Peter Joseph
+Compiled & Edited by Ben McLeish, Matt Berkowitz, and Peter Joseph.
 
 Thanks to:
 Andrés Delgado
