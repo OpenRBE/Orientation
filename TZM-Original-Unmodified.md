@@ -1,3 +1,5 @@
+[This text was copied from the TZM website (http://thezeitgeistmovement.com/orientation) on 2/9/2015 and may not reflect the current version or that which can be found there in PDF file format.]
+
 About:
 
 The Zeitgeist Movement Defined is the official, representative text of the global, non-profit sustainability advocacy organization known as The Zeitgeist Movement (TZM).
