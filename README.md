@@ -26,20 +26,20 @@ sources, tips and other research.
 Compiled & Edited by Ben McLeish, Matt Berkowitz, and Peter Joseph.
 
 Thanks to:
-Andrés Delgado
-Bakari Pace
-Brandon Kristy
-Brandy Hume
-Douglas Mallette
-Eva Omori
-Federico Pistono
-Gilbert Ismail
-James Phillips
-Jason Lord
-Jen Wilding
-Miguel Oliveira
-Sharleen Bazeghi
-Tom Williams
+Andrés Delgado,
+Bakari Pace,
+Brandon Kristy,
+Brandy Hume,
+Douglas Mallette,
+Eva Omori,
+Federico Pistono,
+Gilbert Ismail,
+James Phillips,
+Jason Lord,
+Jen Wilding,
+Miguel Oliveira,
+Sharleen Bazeghi,
+and Tom Williams
 
 If you would like to help in translating this text,
 please contact TZM's linguistics team:
