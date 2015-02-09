@@ -39,7 +39,7 @@ Jason Lord,
 Jen Wilding,
 Miguel Oliveira,
 Sharleen Bazeghi,
-and Tom Williams
+and Tom Williams.
 
 If you would like to help in translating this text,
 please contact TZM's linguistics team:
