@@ -1,5 +1,4 @@
 # Orientation
-This is a fork of The Zeitgeist Movement Orientation Guide. See README for license info.
 
 The purpose of this repository is to provide a publicly accessible live document for people to contribute to and fork.
 The license is carried over from the original document. Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) Obviously this applies for any subsequent fork or revision.
